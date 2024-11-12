@@ -8,100 +8,196 @@ u_height: 1
 interfaces:
   - name: ether1
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether2
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether3
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether4
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether5
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether6
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether7
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether8
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether9
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether10
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether11
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether12
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether13
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether14
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether15
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether16
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether17
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether18
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether19
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether20
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether21
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether22
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether23
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether24
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether25
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether26
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether27
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether28
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether29
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether30
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether31
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether32
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether33
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether34
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether35
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether36
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether37
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether38
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether39
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether40
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether41
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether42
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether43
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether44
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether45
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether46
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether47
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: ether48
     type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
   - name: sfp-sfpplus1
     type: 10gbase-x-sfpp
   - name: sfp-sfpplus2
