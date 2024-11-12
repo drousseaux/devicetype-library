@@ -8,6 +8,8 @@ weight: 4.38
 weight_unit: lb
 airflow: passive
 is_full_depth: false
+front_image: true
+rear_image: false
 comments: '[Juniper SRX300 Series Data Sheet](https://www.juniper.net/content/dam/www/assets/datasheets/us/en/security/srx300-line-services-gateways-branch-datasheet.pdf)'
 console-ports:
   - name: Console
