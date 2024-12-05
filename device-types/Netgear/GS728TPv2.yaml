@@ -1,0 +1,73 @@
+---
+manufacturer: Netgear
+model: GS728TP v2
+slug: netgear-gs728tpv2
+part_number: GS728TPv2
+comments: '[GS728TP - 24-port Gigabit PoE+ smart switch with 4 SFP ports](https://www.netgear.com/fr/support/product/gs728tpv2/#docs)'
+u_height: 1
+weight: 6.3
+weight_unit: kg
+is_full_depth: false
+front_image: true
+rear_image: true
+power-ports:
+  - name: Power
+    type: iec-60320-c14
+    maximum_draw: 535
+interfaces:
+  - name: g1
+    type: 1000base-t
+  - name: g2
+    type: 1000base-t
+  - name: g3
+    type: 1000base-t
+  - name: g4
+    type: 1000base-t
+  - name: g5
+    type: 1000base-t
+  - name: g6
+    type: 1000base-t
+  - name: g7
+    type: 1000base-t
+  - name: g8
+    type: 1000base-t
+  - name: g9
+    type: 1000base-t
+  - name: g10
+    type: 1000base-t
+  - name: g11
+    type: 1000base-t
+  - name: g12
+    type: 1000base-t
+  - name: g13
+    type: 1000base-t
+  - name: g14
+    type: 1000base-t
+  - name: g15
+    type: 1000base-t
+  - name: g16
+    type: 1000base-t
+  - name: g17
+    type: 1000base-t
+  - name: g18
+    type: 1000base-t
+  - name: g19
+    type: 1000base-t
+  - name: g20
+    type: 1000base-t
+  - name: g21
+    type: 1000base-t
+  - name: g22
+    type: 1000base-t
+  - name: g23
+    type: 1000base-t
+  - name: g24
+    type: 1000base-t
+  - name: g25
+    type: 1000base-x-sfp
+  - name: g26
+    type: 1000base-x-sfp
+  - name: g27
+    type: 1000base-x-sfp
+  - name: g28
+    type: 1000base-x-sfp
