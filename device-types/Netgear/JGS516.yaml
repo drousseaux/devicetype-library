@@ -1,0 +1,62 @@
+---
+manufacturer: Netgear
+model: JGS516PE
+slug: netgear-jgs516pe
+u_height: 1
+comments: '[Switch PoE Plus Gigabit Ethernet 16 ports et PoE 8 ports](https://www.netgear.com/fr/support/product/jgs516pe/#docs)'
+is_full_depth: false
+front_image: true
+rear_image: true
+interfaces:
+  - name: GigabitEthernet/1
+    type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
+  - name: GigabitEthernet/2
+    type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
+  - name: GigabitEthernet/3
+    type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
+  - name: GigabitEthernet/4
+    type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
+  - name: GigabitEthernet/5
+    type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
+  - name: GigabitEthernet/6
+    type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
+  - name: GigabitEthernet/7
+    type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
+  - name: GigabitEthernet/8
+    type: 1000base-t
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
+  - name: GigabitEthernet/9
+    type: 1000base-t
+  - name: GigabitEthernet/10
+    type: 1000base-t
+  - name: GigabitEthernet/11
+    type: 1000base-t
+  - name: GigabitEthernet/12
+    type: 1000base-t
+  - name: GigabitEthernet/13
+    type: 1000base-t
+  - name: GigabitEthernet/14
+    type: 1000base-t
+  - name: GigabitEthernet/15
+    type: 1000base-t
+  - name: GigabitEthernet/16
+    type: 1000base-t
+power-ports:
+  - name: PSU1
+    type: iec-60320-c14
+    maximum_draw: 18
