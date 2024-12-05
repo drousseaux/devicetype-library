@@ -1,0 +1,28 @@
+---
+manufacturer: fanvil
+model: X7
+slug: fanvil-x7
+part_number: X7
+u_height: 0
+is_full_depth: false
+airflow: passive
+front_image: true
+comments: 'There are models with 1 WAN, 1 LAN under a different hardware revision #. [X7 Enterprise IP Phone](https://www.fanvil.com/products/p1/x/20210921/5042.html)'
+weight: 5.4
+weight_unit: oz
+power-ports:
+  - name: POWER
+    type: dc-terminal
+    maximum_draw: 5
+    description: Voltage 5V
+interfaces:
+  - name: INTERNET
+    type: 1000base-tx
+    poe_mode: pd
+    poe_type: type2-ieee802.3at
+  - name: PC
+    type: 1000base-tx
+  - name: Headset
+    type: other
+  - name: Hanset
+    type: other
