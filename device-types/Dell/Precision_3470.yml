@@ -1,0 +1,76 @@
+---
+manufacturer: Dell
+model: Precision 3470
+slug: precision-3470
+description: ''
+default_platform: null
+front_image: true
+part_number: ''
+u_height: 1.0
+is_full_depth: true
+subdevice_role: ''
+airflow: ''
+weight: 1.49
+weight_unit: kg
+comments: "Processeur allant jusqu\u2019au mod\xE8le Intel\xAE Core\u2122 i7 (28 W)\
+  \ de 12e g\xE9n\xE9ration avec vPro\r\nCarte graphique jusqu\u2019au mod\xE8le NVIDIA\
+  \ T550 avec 4 Go de m\xE9moire DDR6\r\nJusqu\u2019\xE0 64 Go de m\xE9moire DDR5\
+  \ \xE0 4 800 MHz (2 modules SODIMM) [Station de travail ultramobile 14\" dotée de processeurs Intel® Core™ de 12e génération](https://www.dell.com/fr-fr/shop/ordinateurs-portables-et-2-en-1/precision-3470-workstation/spd/precision-14-3470-laptop)"
+console-ports:
+- name: USB-A 1
+  type: usb-a
+  label: ''
+  description: ''
+- name: USB-A 2
+  type: usb-a
+  label: ''
+  description: Port USB-A 3.2 Gen 1 avec PowerShare
+- name: USB-c 1
+  type: usb-c
+  label: ''
+  description: "ports Thunderbolt\u2122 4 avec Power Delivery et DisplayPort 2.0"
+- name: USB-c 2
+  type: usb-c
+  label: ''
+  description: "ports Thunderbolt\u2122 4 avec Power Delivery et DisplayPort 2.0"
+interfaces:
+- name: ge 1
+  type: 1000base-tx
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: ''
+  poe_type: ''
+  rf_role: ''
+- name: "Lecteur de carte \xE0 puce"
+  type: other
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: ''
+  poe_type: ''
+  rf_role: ''
+- name: Logement de carte microSD
+  type: other
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: ''
+  poe_type: ''
+  rf_role: ''
+- name: Port HDMI 2.0
+  type: other
+  enabled: true
+  mgmt_only: false
+  label: ''
+  description: ''
+  bridge: null
+  poe_mode: ''
+  poe_type: ''
+  rf_role: ''
