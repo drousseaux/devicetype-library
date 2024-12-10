@@ -1,9 +1,10 @@
 ---
 manufacturer: HPE
 model: HP OfficeJet Pro 8720
-slug: hp-officejet-8720
+slug: hpe-officejet-8720
 part_number: 8720
 comments: '[HP OfficeJet Pro 8720](https://support.hp.com/be-fr/product/details/hp-officejet-pro-8720-all-in-one-printer-series/7902032)'
+front_image: true
 interfaces:
   - name: eth0
     type: 1000base-t
